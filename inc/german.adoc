@@ -1,0 +1,71 @@
+=== FamilySearch wiki German Research Section
+
+The book *Finding Your German Ancestor's, A Beginner's Guide* by Kevan A ? is an exellent short inntroduction that should first be read.
+
+Contacts
+
+ttps:///www.vennekohl.de[Vennekohl.de]
+
+=== German Verein Liste
+
+GenWiki's link:https://wiki.genealogy.net/Portal:Vereine[Portal von Vereine]
+
+____
+Viele genealogische Vereine, Arbeitskreise, Interessengemeinschaften und andere genealogische Institute stellen sich auf dem Server des Vereins für Computergenealogie e.V. vor und nehmen aktiv an den Projekten teil.
+Auch wenn Sie vielleicht sonst ein Vereinsmuffel sind, die Mitgliedschaft in einem genealogischen Verein kann sich lohnen! Viele genealogische Veranstaltungen werden von Vereinen ausgerichtet. Mitglieder einiger
+Vereine, Arbeitsgruppen usw., die hier im GenWiki eine Anmeldung und damit eine Benutzerseite haben, teilen ihre Mitgliedschaft dort mit, die Übersicht dazu findet sich hier. 
+____
+
+Vereins of note: 
+
+- link:https://www.vfkbw.de/[Verein für Familienkunde in Baden-Württemberg]
+
+- link:https://www.hfv-ev.de/[Hessische familiengeschichtliche Vereinigung (HfV)]
+
+- Schaumburg TODO
+
+=== Church Registers
+
+Family Roots Publishing has a set of https://www.familyrootspublishing.com/search_results.php[Map Guides to Württemberg Parish Registers], one for each Landkreis (apparently). This includes The vollmer's
+
+Landkreis of Donaukreis, in which their village, Owen, lay.
+
+The Genealogy Center has thes Map Guides. In particular, for these kingdoms of interest to me:
+
+- https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/896626?offset=0&qs=Grandduchy%20of%20Hessen%20Map%20Guide%20to%20German%20Parish%20Registers&search_in=iets&state=search[Map guide to German parish registers. Grandduchy of Hessen / by Kevan M. Hansen ; introduction by George Ott]
+
+- https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/958020?offset=0&qs=W%C3%BCrttemberg%20%20Donaukreis%20Map%20Guide%20to%20German%20Parish%20Registers&search_in=iets&state=search[Map guide to German parish registers. Kingdom of Württemberg, volume IV Donaukreis, with full index of included towns and master index to Württemberg, volumes I to IV / by Kevan M. Hansen with introduction by George Ott]
+
+- If needed, get url for volume for northern germany near minden, etc. 
+
+=== Wuerttemberg
+
+Württemberg has a lot of research sites because thez seem to have kept more family data than other kingdoms. The Family Search wiki's
+https://www.familysearch.org/en/wiki/W%C3%BCrttemberg,_German_Empire_Genealogy[Württemberg, German Empire Genealogy] has numerous links to them.
+
+Ancestry describes the https://www.ancestry.com/search/collections/61389/[About Württemberg, Germany, Family Tables, 1550-1985]:
+
+____
+What you can find in the records
+
+Beginning in 1808, family tables were extensively recorded in Württemberg and supplement parish records. Three generations of a family are usually recorded on a single or double-page sheet. Each record begins with the male head of household. The family tables are generally arranged alphabetically according to the first letter of the family surname. Depending on the time period and on the individual forms used, you may generally find the following details in these records:
+
+Head of household, Father: Last Name, Given names, Occupation, Birthdate, Marriage Date, Death Date, details about his Parents
+Mother: Last Name, Maiden Name, Given names, Birthdate, Marriage Date, Death Date, details about her Parents
+Children: Last Name, Given names, Occupation, Birthdate, Confirmation or Communion, Marriage Date, details about Spouse, Death Date, often includes children born outside of or previous to the marriage.
+More about using this collection
+
+This collection is based on older microfilms. Under "Browse this collection,” select the City or District and then the Description and Year Range for the desired records.
+____
+
+=== Hesse
+
+include::./hesse.adoc[]
+
+=== Niedersachsen/Schaumburg
+
+include::./niedersachsen.adoc[]
+
+=== Baden Wuerttemberg
+
+include::./baden-wuerttemberg.adoc[]
