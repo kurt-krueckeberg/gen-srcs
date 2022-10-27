@@ -1,4 +1,4 @@
 = Genealogical Sources
 
-This repository contains genealogical record sources for Allen and Adams Counties, Indiana, and Germany. 
-It is written in Asciidoc and requires the [Asciidoc Skins repository ](https://github.com/darshandsoni/asciidoctor-skins) .css files to reside in ./skins.
+This repository lists genealogical sources for Allen and Adams Counties, Indiana, and Germany. 
+It is written in Asciidoctor format and requires the https://github.com/darshandsoni/asciidoctor-skins[[Asciidoc Skins repository] `.css` files in the `./skins` subdir.
