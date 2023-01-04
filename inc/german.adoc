@@ -91,14 +91,6 @@ this online handwriting generator to see what the name or village you’re
 searching for should look like, enabling you to scan records more
 quickly.
 
-* Kurrent (first choice to click on) and Sütterlin (third choice to
-click on) generator
-http://www.deutsche-handschrift.de/adsschreiben.php#schriftfeld
-* Fraktur generator
-https://fancytextdecorator.com/bold-fraktur-text-generator
-* General information on the handwriting and links to tutorials
-http://www.familysearch.org/en/wiki/Germany_Handwriting
-
 == Contacts in Germany
 
 https:///www.vennekohl.de[Vennekohl.de]
