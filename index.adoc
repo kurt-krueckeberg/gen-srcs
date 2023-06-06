@@ -1,6 +1,6 @@
 = Genealogy Research
 :toc:
-:stylesdir: /home/kurt/skins/css
+:stylesdir: /home/kurt/skins/
 :stylesheet: dark.css
 :docinfo: /home/kurt/shared/shared
 :docinfodir: ./docinfo
