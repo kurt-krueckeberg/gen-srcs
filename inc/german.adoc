@@ -8,6 +8,8 @@ The book *Finding Your German Ancestor's, A Beginner's Guide* by Kevan A Hansen 
 
 todo: Move these resources to the appropriate section.
 
+*CompGen* https://www.compgen.de[CompGen]
+
 *Meyers Gazetteer:* Online gazetteer of locations in the German Empire
 (1871-1918), including maps and key information about civil and
 religious jurisdictions. It’s a great resource for identifying where
