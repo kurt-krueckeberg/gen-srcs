@@ -17,6 +17,10 @@ include::inc/nara.adoc[]
   * https://www.familysearch.org/en/wiki/Indiana,_United_States_Genealogy[Guide to Indiana research] contains guides to each county, for example:
   ** https://www.familysearch.org/en/wiki/index.php?title=Allen_County,_Indiana_Genealogy[Allen County, Indiana]
 
+- Library of Congress Research Guides: https://guides.loc.gov/german-genealogy[German Origins in the United States: A Guide to Local History and Genealogy Sources]
+  Compiled by subject specialists at the Library of Congress, this guide provides print and online resources for researching the genealogy
+  of German families in the U.S., along with key national, state and local histories.
+
 - Genealogy Center guide to https://acpl.lib.in.us/images/Documents/Gendocs/allencountyincongregations.pdf[Allen County, Indiana, Congregational Records, Histories and Directories]
 
 - Genalogy Center Snapshots guides:
