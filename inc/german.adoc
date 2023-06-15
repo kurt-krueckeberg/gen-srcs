@@ -125,7 +125,10 @@ Hesse:
 
 === Websites for Specific Areas
 
-- https://www.aegilops.com/slp/index.html#gaz[Schaumburg-Lippe Genealogy]
+- https://www.aegilops.com/slp/index.html[Schaumburg-Lippe Genealogy]
+
+- https://www.nhv-lippe.de/fileadmin/user_upload/Sonderver%C3%B6ffentlichungen/%C3%9Cbersicht_lieferbare_B%C3%A4nde_SV_Internet.pdf[Publications of the Naturwissenschaftlichen und
+  HIstorischen Vereins für das Land Lipp e. V.]
 
 === Church Registers
 
