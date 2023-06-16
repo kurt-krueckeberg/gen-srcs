@@ -46,22 +46,9 @@ help you communicate in German.
 
 * https://www.familysearch.org/en/wiki/Germany_Archives_and_Libraries[Archives and Libraries]
 
-* https://ofb.genealogy.net/[CompGen Collection of Online Ortsfamilienbücher]
+=== Ortsippenbücher or Ortfamilienbücher
 
-  From the https://www.compgen.de/portfolio-item/db-ortsfamilienbuecher/[The CompGen description]:
-
-  Contents:
-   
-  A  local family book  ( abbreviated: OFB, formerly also local family book / OSB ) is a personal historical  secondary source, in which the entire population of a place that can be found in the sources (usually: church books) is listed with their biographical data and usually the direct genealogical connections as well as further information (e.g. occupation, house). Here you can find individual people, mother-child relationships and, above all, entire nuclear families (parents and their children) sorted by family name. In most printed OFBs and in all online OFBs, reference numbers to the families of origin and marriage are given, so that the entire family network can be determined from an OFB, insofar as it is limited to the location examined.
-
-  The primary sources that are used for the processing of a local family book are usually the  church registers , from which at least the entries on baptism, marriage and burial are transferred, often also information on godparents and witnesses. However, all other primary sources of personal history of spiritual or secular origin can be used to edit a local family book, as well as secondary sources that have already been published, such as local family books from neighboring communities.
-
- Extent of Database:
-
- Over 1,000 local family books are available online. On average, 5 to 10 new books are added every month.
-
-*Ortsippenbücher or Ortfamilienbücher:* These books focus on one
-town/village, and are a compilation of all family data for people who
+These books focus on one town/village, and are a compilation of all family data for people who
 lived in that village, generally using church records as a source. 
 
 Pros:
@@ -80,6 +67,20 @@ St. Louis County Library also has a large collection
 https://www.slcl.org/content/ortssippenb%C3%BCcher-familienb%C3%BCcher-held-history-and-genealogy-department[St. Louis County Public Library]
 * Online at CompGen (aka Genealogy.net): Compgen has nearly 1,000 of
 these books digitized and online https://ofb.genealogy.net/[Ortsippenbücher].
+
+* https://ofb.genealogy.net/[CompGen Collection of Online Ortsfamilienbücher]
+
+  From the https://www.compgen.de/portfolio-item/db-ortsfamilienbuecher/[The CompGen description]:
+
+  Contents:
+  
+  A  local family book  ( abbreviated: OFB, formerly also local family book / OSB ) is a personal historical  secondary source, in which the entire population of a place that can be found in the sources (usually: church books) is listed with their biographical data and usually the direct genealogical connections as well as further information (e.g. occupation, house). Here you can find individual people, mother-child relationships and, above all, entire nuclear families (parents and their children) sorted by family name. In most printed OFBs and in all online OFBs, reference numbers to the families of origin and marriage are given, so that the entire family network can be determined from an OFB, insofar as it is limited to the location examined.
+
+  The primary sources that are used for the processing of a local family book are usually the  church registers , from which at least the entries on baptism, marriage and burial are transferred, often also information on godparents and witnesses. However, all other primary sources of personal history of spiritual or secular origin can be used to edit a local family book, as well as secondary sources that have already been published, such as local family books from neighboring communities.
+
+ Extent of Database:
+
+ Over 1,000 local family books are available online. On average, 5 to 10 new books are added every month.
 
 *CompGen aka Genealogy.net:* This is an association in Germany that has
 provided online genealogy data since 1990. Site is in German; use Chrome
