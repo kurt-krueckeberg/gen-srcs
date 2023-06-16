@@ -82,10 +82,7 @@ these books digitized and online https://ofb.genealogy.net/[Ortsippenbücher].
 
  Over 1,000 local family books are available online. On average, 5 to 10 new books are added every month.
 
-*CompGen aka Genealogy.net:* This is an association in Germany that has
-provided online genealogy data since 1990. Site is in German; use Chrome
-to translate. http://www.comgen.de Some of the key parts of this site
-are:
+=== CompGen and Verein für Computergenealogie
 
 * DigiBib (Digital Library): Digitized books such as directories,
 government and church histories, etc.
@@ -95,16 +92,31 @@ http://www.digibib.genealogy.net/viewer/index/
 * Networking: Includes ways to connect with others, including discussion
 forums and how- to videos http://www.compgen.de/kommunizieren/
 
-* Databases: Includes searchable databases that include gravestones, war
-casualty lists, directories, individual members’ trees, etc.
-http://www.compgen.de/recherchieren/#datenbanken
+* Databases: Includes searchable databases that include gravestones, war casualty lists,
+ directories, individual members’ trees, etc. http://www.compgen.de/recherchieren/#datenbanken
+
+- https://des.genealogy.net/search/allProjects[Search of Projects of Verein für Computergenealogie]
+
+- https://gedbas.genealogy.net/?lang=en[GEDBAS Surname Database Search]
+
+  Description:
+
+  The term GEDBAS is a fantasy term and can, for example, be interpreted as an abbreviation for genealogical data base .
+
+  Every family researcher can contribute his research results, everyone can query the database.
+
+  The GEDBAS project was launched by the Verein für Computergenealogie eV . It is intended to help researchers in Germany to
+  find contacts with other interested researchers and to exchange results. Unlike FOKO, concrete data is also published here.
+  Inquiries by email or post no longer have to be made in every case, since those who are interested in the names can already
+  tell when searching in the database whether the research results are of interest to them or not.
 
 * GenWiki: Includes articles on many German genealogy-related topics
 http://wiki- de.genealogy.net/Hauptseite
 
-* Name distribution map: Enables you to map the primary locations your
-surname was found in 1890 and 1996
-http://www.compgen.de/recherchieren/#namenskarte
+* https://nvk.genealogy.net/map[German Surname Distribution Map]
+
+  Enables you to map the primary locations your surname was found in 1890 and 1996
+
 
 *Geogen:* This is another website to map locations where your surnames
 are found, based on current-day information (directories). Provides
