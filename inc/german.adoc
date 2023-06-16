@@ -18,6 +18,16 @@ religious jurisdictions. It’s a great resource for identifying where
 your ancestor came from, and where the archives would be that might have
 more records.
 
+https://gov.genealogy.net/search/index[Historic Gazetteer of CompGen]
+
+It contains location facts that are relevant to the work of genealogists:
+
+  *  Geographical location of the place (coordinates or a position on a map)
+  *  Several properties of a place (postal code, town-code, etc.)
+  *  Foreign or former names
+  *  Past affiliation (administrative, law, church, etc.)
+
+
 * http://www.meyersgaz.org[Meyer's Gazetteer]
 
 *Kartenmeister:* Database of German place locations east of current-day
@@ -36,12 +46,30 @@ help you communicate in German.
 
 * https://www.familysearch.org/en/wiki/Germany_Archives_and_Libraries[Archives and Libraries]
 
+* https://ofb.genealogy.net/[CompGen Collection of Online Ortsfamilienbücher]
+
+  From the https://www.compgen.de/portfolio-item/db-ortsfamilienbuecher/[The CompGen description]:
+
+  Contents:
+   
+  A  local family book  ( abbreviated: OFB, formerly also local family book / OSB ) is a personal historical  secondary source, in which the entire population of a place that can be found in the sources (usually: church books) is listed with their biographical data and usually the direct genealogical connections as well as further information (e.g. occupation, house). Here you can find individual people, mother-child relationships and, above all, entire nuclear families (parents and their children) sorted by family name. In most printed OFBs and in all online OFBs, reference numbers to the families of origin and marriage are given, so that the entire family network can be determined from an OFB, insofar as it is limited to the location examined.
+
+  The primary sources that are used for the processing of a local family book are usually the  church registers , from which at least the entries on baptism, marriage and burial are transferred, often also information on godparents and witnesses. However, all other primary sources of personal history of spiritual or secular origin can be used to edit a local family book, as well as secondary sources that have already been published, such as local family books from neighboring communities.
+
+ Extent of Database:
+
+ Over 1,000 local family books are available online. On average, 5 to 10 new books are added every month.
+
 *Ortsippenbücher or Ortfamilienbücher:* These books focus on one
 town/village, and are a compilation of all family data for people who
-lived in that village, generally using church records as a source. Pro –
-these are printed and easy to read and show all family connections. Con
-– they’re transcribed from the original records, which creates the
-possibility for error. But using these can help you more easily locate
+lived in that village, generally using church records as a source. 
+
+Pros:
+these are printed and easy to read and show all family connections. 
+
+Cons:
+Since they’re transcriptions of original records, errors may exist.
+But using these can help you more easily locate
 your ancestors in the original records. Where to find these books:
 
 * Purchase: Try eBay (www.ebay.com) or Abe Books (www.abebooks.com)
