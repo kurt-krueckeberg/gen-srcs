@@ -4,9 +4,11 @@ General:
 
 The book *Finding Your German Ancestor's, A Beginner's Guide* by Kevan A Hansen is an exellent short inntroduction.
 
-=== Schott List of German Research Resources
+===  List of German Research Resources
 
 todo: Move these resources to the appropriate section.
+
+https://www.dagv.org/?Die_DAGV___Mitgliedsvereine[German Genalogical Associations belonging to Deutsche Arbetisgemeinschaft genealogisher Verbände e.V.(DAGV)]
 
 *CompGen* https://www.compgen.de[CompGen]
 
@@ -60,13 +62,17 @@ are:
 government and church histories, etc.
 http://wiki-de.genealogy.net/Portal:DigiBib or
 http://www.digibib.genealogy.net/viewer/index/
+
 * Networking: Includes ways to connect with others, including discussion
 forums and how- to videos http://www.compgen.de/kommunizieren/
+
 * Databases: Includes searchable databases that include gravestones, war
 casualty lists, directories, individual members’ trees, etc.
 http://www.compgen.de/recherchieren/#datenbanken
+
 * GenWiki: Includes articles on many German genealogy-related topics
 http://wiki- de.genealogy.net/Hauptseite
+
 * Name distribution map: Enables you to map the primary locations your
 surname was found in 1890 and 1996
 http://www.compgen.de/recherchieren/#namenskarte
@@ -78,14 +84,6 @@ links to similar maps for nearby countries.
 * Current version is 4: https://geogen.stoepel.net/
 * Legacy version (with more functionality):
 https://legacy.stoepel.net/en
-
-*MyHeritage:* This is a commercial genealogy site that provides DNA
-testing and some indexes and records. Although their record collection
-is small compared to Ancestry or FamilySearch, it’s worth checking. It
-is also the most popular DNA test in Europe, which may help you find
-distant cousins in Europe.
-
-* http://www.myheritage.com
 
 *German Handwriting:* There’s no substitute for learning German
 handwriting to help you in your research. But one helpful hint is to use
