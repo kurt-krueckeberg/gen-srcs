@@ -144,6 +144,8 @@ file:///home/kurt/g/lectures/Expanding_Your_German_Research_Beyond_Ancestry_and_
 
 === German Verein Liste
 
+Liste von https://www.familienkunde-oldenburg.de/recherche/genealogische-vereine-im-norden-deutschlands/[Genealogische Vereine im Norden Deutschlands].
+
 GenWiki's link:https://wiki.genealogy.net/Portal:Vereine[Portal von Vereine]
 
 ____
