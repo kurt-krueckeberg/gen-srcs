@@ -10,28 +10,18 @@ TODO: Organize by topic not facility or location
 
 include::inc/nara.adoc[]
 
-== Research Guides
+== Guides
 
-- https://www.familysearch.org/en/wiki/Main_Page[FamilySearch wiki] 
-  * https://www.familysearch.org/en/wiki/Germany_Genealogy[Germany Genealogy section] contains regional guides
-  * https://www.familysearch.org/en/wiki/Indiana,_United_States_Genealogy[Guide to Indiana research] contains guides to each county, for example:
-  ** https://www.familysearch.org/en/wiki/index.php?title=Allen_County,_Indiana_Genealogy[Allen County, Indiana]
-
-- Library of Congress Research Guides: https://guides.loc.gov/german-genealogy[German Origins in the United States: A Guide to Local History and Genealogy Sources]
+* link:https://www.familysearch.org/en/wiki/Main_Page[FamilySearch wiki] 
+* link:https://genealogycenter.org[Genealogy Center] 
+  Had Databases, Resources for Allen County, Guides for each State, Guides by Subject like German research, etc.
+** geneaolgy center https://www.genealogycenter.info/persi/[PERSI] page for searching periodically index of genealpogical publications.
+* Library of Congress Research Guides: https://guides.loc.gov/german-genealogy[German Origins in the United States: A Guide to Local History and Genealogy Sources]
   Compiled by subject specialists at the Library of Congress, this guide provides print and online resources for researching the genealogy
   of German families in the U.S., along with key national, state and local histories.
-
-- Genealogy Center guide to https://acpl.lib.in.us/images/Documents/Gendocs/allencountyincongregations.pdf[Allen County, Indiana, Congregational Records, Histories and Directories]
-
-- Genalogy Center Snapshots guides:
-  * https://acpl.lib.in.us/pathfinders/snapshots/subjects[Subject Snapshots] includes a German guide.
-  * https://acpl.lib.in.us/pathfinders/snapshots/states[State Snapshots] are State research guides.
-  * https://acpl.lib.in.us/images/Documents/Gendocs/States/allen-county-fort-wayne-sg.pdf[Allen Co. & Ft. Wayne IN] is a separate guide with the State snapshot guides.
-
-- The InGenWeb site for Allen County has this info on https://www.acgsi.org/genweb/county/records/land-records-allen-county-indiana.html[Land Records] for Allen County.
-- https://irenehansen11.files.wordpress.com/2015/04/pre-1850-in-research.pdf[Pre-1850 Indiana Resources for Family History Research] by Irene Hansen, a reference librarian at Indiana State Library
-- https://www.familysearch.org/en/help/helpcenter/lessons/old-german-script-part-1[Old German Script] 3-part video series by FamilySearch
-- geneaolgy center https://www.genealogycenter.info/persi/[PERSI] page for searching periodically index of genealpogical publications.
+* The link:https://www.acgsi.org/genweb[InGenWeb] site for Allen County has this info on https://www.acgsi.org/genweb/county/records/land-records-allen-county-indiana.html[Land Records] for Allen County.
+* link:https://irenehansen11.files.wordpress.com/2015/04/pre-1850-in-research.pdf[Pre-1850 Indiana Resources for Family History Research] by Irene Hansen, a reference librarian at Indiana State Library
+* Old German Script by https://www.familysearch.org/en/help/helpcenter/lessons/old-german-script-part-1[3-part video series] FamilySearch
 
 === Indiana and Allen county Histories
 
@@ -41,22 +31,23 @@ has townships histories, but no biographical sketches of individuals who emigrat
 - link:/home/kurt/g/histories/PioneerHistory-of-Indiana-by-William-Cockrum.pdf[Pioneer History of Indiana]
   does not have biographical sketches. 
 
-- https://www.familysearch.org/library/books/records/?navigation=&perpage=&page=1&sort=_score&search=History+of+the+Maumee+River+Basin&fulltext=1&bookmarks=0#title[History of the Maumee River Basin], by 
+* https://www.familysearch.org/library/books/records/?navigation=&perpage=&page=1&sort=_score&search=History+of+the+Maumee+River+Basin&fulltext=1&bookmarks=0#title[History of the Maumee River Basin], by 
   *Slocum, Charles Elihu, 1841-1915; Robertson, R. Stoddart, 1839-* is three volumes, and the third is devoted exclusively to biographical sketeches.
++
   The https://www.familysearch.org/library/books/[FamilySearch Digital Libaray] has all three volumes: 
-  * http://www.familysearch.org/library/books/idurl/1/440041[volume 1]
-  * http://www.familysearch.org/library/books/idurl/1/46624[volume 2] discusses education, Luthereran churches, various organinzations, etc.
-  * http://www.familysearch.org/library/books/idurl/1/142390[volume 3] has biographical sketches that include:
-  ** Baade, Christian
-  ** Beerman, henry
-  ** Dunkelberg ?
-  ** Fahlsing, Frederick W, born in Minden, Germany. His parents emigrated in 1844, settled in Preble twp, AdaMs CO.
-  ** Getz
-  ** Hartzell
-  ** Klaehn
-  ** Niezer
-  ** Stellhorn
-  ** Thieme, Theodore F, Druggest
+** http://www.familysearch.org/library/books/idurl/1/440041[volume 1]
+** http://www.familysearch.org/library/books/idurl/1/46624[volume 2] discusses education, Luthereran churches, various organinzations, etc.
+** http://www.familysearch.org/library/books/idurl/1/142390[volume 3] has biographical sketches that include:
+*** Baade, Christian
+*** Beerman, Henry
+*** Dunkelberg ?
+*** Fahlsing, Frederick W, born in Minden, Germany. His parents emigrated in 1844, settled in Preble twp, AdaMs CO.
+*** Getz
+*** Hartzell
+*** Klaehn
+*** Niezer
+*** Stellhorn
+*** Thieme, Theodore F, Druggest
 
 === Ohio
 
@@ -68,25 +59,27 @@ https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeInde
 
 === City Directories
 
-They can be used tin conjunction with other records to ananylze potential relationships  between individuals. The information from several years should be used and compared. Someone who is the 
-widow (dsingated `(wid)` ) of, say, A. Darah, in one year and later listed as the widow of Newton Darah a few years later may be the widow of 'Alvin Newton Darah', which a marriage record
+City Directoriesy can be used tin conjunction with other records to ananylze potential relationships between individuals. The information from several years should be used and compared. Someone who is the 
+widow (often desingated `(wid)` ) of, say, A. Darah, in one year and later listed as the widow of Newton Darah a few years later may be the widow of 'Alvin Newton Darah', which a marriage record
 of their son or duaghter may confirm.
 
 Directories may also list businesses in the same line of work. In the case of Fort Wayne City Directories from the 1860s and later, the Wards of the city are described by their street boundaries.
 
-Search 'City Direcctories' or 'City Directory' on sites like: 
+The GenealogyCenter has sets of city directorys. See also Ancestry's U.S. City Direcories link:https://www.ancestry.com/search/collections/2469/[search page].
+
+Other possible online sources of 'City Direcctories' or 'City Directory': 
 
 * https://archive.org[Internet Archive]
 * https:///www.hathitrust.org[Hathi Trust]
 * https://dp.la/[Digital Public Library of America]
-* https://www.myheritage.com/research/collection-90100/compilation-of-published-sources[MyHeritage's compliaton of poublished sources.
-* PFW Mastadon Digital Object Network, which has digitized mpas, books, etc
 
-  - https://mdon.library.pfw.edu/digital/collection/cc_fw_hist/search[Fort Wayne Area HIstory Collection]
-  - https://mdon.library.pfw.edu/digital/collection/cc_acfwhs/search[History Center Digital Collections]
-* Ancestry's U.S. City Direcories https://www.ancestry.com/search/collections/2469/[search page]
+=== PLSS
 
-=== PLSS Tools
+Public Land Surgey System(PLSS) resources:
+
+link:https://www.acres.co/plat-map[www.acres.co/plat-map] display maps with townships and ranges and their township names.
+
+This table of Allen County, Indiana, townships is from link: 
 
 .Table of Allen County, Indiana, township names and their PLSS township and range designation.
 [width="45%",rows="grid", frame="none"]
@@ -134,12 +127,6 @@ Search 'City Direcctories' or 'City Directory' on sites like:
 |32 North|15 East|Scipio
 |===
 
-The https://www.acres.co/plat-map[www.acres.co/plat-map] site shows a map with townships and ranges and their township names.
-
-=== Allen County, Indiana, township Histories
-
-TODO:
-
 === Adams county, Indiana
 
 include::./inc/adams-co.adoc[]
@@ -154,7 +141,7 @@ See the column on the right side.
 - FamilySearch Old German Script https://familysearch.brightspotcdn.com/fc/1d/865daadf23b9270f0d67c643a099/old-german-script-handout.pdf[handout]
 - https://germangirlinamerica.com/old-german-cursive-alphabet-and-typefaces/[https://germangirlinamerica.com/old-german-cursive-alphabet-and-typefaces/]
 
-== Genealogists and Experts
+== Genealogists and Specialists
 
 * Germanic Genealogical Society's https://ggsmn.org/cpage.php?pt=19[translators list].
  
@@ -206,14 +193,11 @@ After 1907, the federal government required state/local courts to issue standard
 Many counties recorded the final process on the back of the petitions; therefore an additional “final paper” will not be available in the Archives.
 ____
 
-== Genealogy Center
-
-include::inc/gen-center.adoc[]
-
 == German Fort Wayne Newspaper
 
 Chronolicing American lists a Fort Wayne German language newspaper called the https://www.loc.gov/item/sn87056647/[Abendpost] published in Fort Wayne, Indiana, between 1908-1913. 
 Chronolicing American says that the Indiana State Library may have it. 
+
 
 === Steve Morse
 

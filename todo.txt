@@ -1,4 +1,6 @@
-Incorporate the databases of compgen.de
-
+Add to German newspapers the other one I found and saved a photo on my cell of the name of the newspapere.
 
 Add: NGS Magazine Index online [here](https://www.ngsgenealogy.org/wp-content/uploads/2023/03/NGS-Mag-Index-2005-2022.pdf)
+Create an index.adoc with an overview
+Reorganize the current index.adoc so links are group by category they belong it, eliminateing redundancy. Then...
+...create top level naviagtion item for of each category, for each current `==` header in index.adoc
