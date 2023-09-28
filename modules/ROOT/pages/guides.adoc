@@ -1,0 +1,18 @@
+= Genealogy Research
+
+include::inc/nara.adoc[] <-- Don't do an include
+
+== Guides
+
+* link:https://www.familysearch.org/en/wiki/Main_Page[FamilySearch wiki] has locality surveys detailed record collection in
+each U.S. county. The also have guides to research in most areas of the world.
+* link:https://genealogycenter.org[Genealogy Center] has  guides for each State and guides by Subject like German research.
+** Geneaolgy Center https://www.genealogycenter.info/persi/[PERSI] page for searching periodically index of genealpogical publications.
+* Library of Congress Research Guides: https://guides.loc.gov/german-genealogy[German Origins in the United States: A Guide to Local History and Genealogy Sources]
+Compiled by subject specialists at the Library of Congress, this guide provides print and online resources for researching the genealogy
+of German families in the U.S., along with key national, state and local histories.
+** A guide for research in the link:https://www.archives.gov/files/publications/ref-info-papers/rip114.pdf[Land Entry Files of the General Land Ofice].
+* The link:https://www.acgsi.org/genweb[InGenWeb] site for Allen County has this info on https://www.acgsi.org/genweb/county/records/land-records-allen-county-indiana.html[Land Records] for Allen County.
+* link:https://irenehansen11.files.wordpress.com/2015/04/pre-1850-in-research.pdf[Pre-1850 Indiana Resources for Family History Research] by Irene Hansen, a reference librarian at Indiana State Library
+* Old German Script by https://www.familysearch.org/en/help/helpcenter/lessons/old-german-script-part-1[3-part video series] FamilySearch
+
